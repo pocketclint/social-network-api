@@ -1,5 +1,5 @@
 {
-  "name": "19-Ins_Aggregates",
+  "name": "social-network-api",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,9 +9,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
+    "moment": "^2.29.4",
     "mongoose": "^6.9.2"
   }
 }
